@@ -1,2 +1,2 @@
-# Excel_Data_Analytics_Course
+# Excel_Data_Analytics
 My daily journey and projects in the world of Data Analysis using Excel. Following a structured curriculum from beginner to advanced topics.
